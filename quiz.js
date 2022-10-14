@@ -151,7 +151,7 @@ validateAnswer = () => {
 
     setTimeout(() => {
         window.location.reload();
-    }, 500);
+    }, 5000);
  }
 
 
